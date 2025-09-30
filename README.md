@@ -14,7 +14,7 @@ Check out the live version of this project [here](https://react-digital-clock-pi
 - Built with **React Hooks**.
 
 ## 📸 Preview
-![Digital Clock Preview](./src/assets/preview.jpg)
+![Digital Clock Preview](./src/assets/preview.png)
 
 ## 🛠️ Technologies Used
 - **React.js**  
